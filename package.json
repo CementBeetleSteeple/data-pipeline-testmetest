@@ -1,0 +1,7 @@
+{
+  "name": "data-pipeline-testmetest",
+  "version": "1.0.0",
+  "description": "Data pipeline utilities",
+  "main": "index.js",
+  "license": "MIT"
+}
